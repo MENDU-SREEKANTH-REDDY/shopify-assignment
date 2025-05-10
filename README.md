@@ -20,8 +20,9 @@ Description Section: A comprehensive section that outlines everything a customer
 
 Related Products: Shows items that are related to the product the customer is currently viewing, encouraging more purchases.
 
-
+VIEW WEBSITE HERE: https://mendu-sreekanth-reddy.github.io/shopify-assignment/
 
 How to run locally -->
-open vscode or any code editor (or) just make a file on your desktop and copy and paste the code provided in the repo
-then download the images provided 
+open vscode or any code editor (or) just make a file on your desktop and copy and paste the code provided in the repo with same file names.
+then download the images provided.
+then in file explorer open the folder created and go to the index.html page there you can see the page.(if this doent work use the link above i deployed it)
